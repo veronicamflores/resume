@@ -14,3 +14,6 @@ background-color: cornflowerblue;
 p{
     background-color: purple;
 }
+div.work-experiance{
+    min-height:50%;
+}
